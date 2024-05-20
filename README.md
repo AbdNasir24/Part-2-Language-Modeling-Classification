@@ -12,6 +12,8 @@ Naive Bayes Model:
 Similar to the SVM model, the Naive Bayes model also achieved perfect accuracy and F1 score of 1.0 across all sentiment categories.
 The classification report shows perfect precision, recall, and F1-score for all sentiment categories.
 This suggests that the Naive Bayes model also performed exceptionally well and was able to classify all instances correctly.
+
+
 Summary:
 Both the SVM and Naive Bayes models achieved outstanding performance on the sentiment classification task, demonstrating perfect accuracy and F1 scores across all sentiment categories. This indicates that the models were able to effectively learn and generalize from the training data to accurately classify tweets into relevant sentiment categories.
 
